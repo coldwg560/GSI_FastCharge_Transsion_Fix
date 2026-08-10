@@ -1,4 +1,4 @@
-# Infinix / Transsion 45W FastCharge Fix (KernelSU / Magisk)
+# Infinix / Transsion FastCharge Fix (KernelSU / Magisk)
 # Disclaimer: This module might brick your phone. Author is not responsible for aftermath of using this module on your device. Use it by your own risk and be careful
 
 A safe, kernel-native fix for restoring proprietary **Fast Charging** (Pump Express 5.0 / Transsion Multi-level Charging) on Infinix and Tecno (MediaTek MT6789 / Helio G99 / Dimensity) devices running **Generic System Images (GSI)**.
